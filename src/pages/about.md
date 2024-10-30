@@ -2,7 +2,7 @@
 layout: "../layouts/BlogPost.astro"
 title: "About Me"
 description: "Social Media Links 'n stuff"
-updatedDate: "August 08 2022"
+updatedDate: "Oct 29 2022"
 ---
 
 # Links
